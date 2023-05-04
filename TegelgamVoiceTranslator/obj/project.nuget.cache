@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zPbMOMDTCa/Re20BNGV+RMuJUYkEGJlXB1NmzCKqd4KYwqQikU11i0cExsvAGoLZ62Vjb628RnlSG2TSAT1/9g==",
+  "dgSpecHash": "wnJ4GwbkpqKFYkOQnHctYNPzehSwy3VqfW3DgDWwurn8CdusEITqvwRb4iR70LJFLvnQIjOqn6fGKP3yxlrlgQ==",
   "success": true,
-  "projectFilePath": "E:\\творчество\\CSHARPPROJECTS\\TegelgamVoiceTranslator\\TegelgamVoiceTranslator\\TegelgamVoiceTranslator.csproj",
+  "projectFilePath": "C:\\Users\\home1\\Desktop\\TegelgamVoiceTranslator\\TelegramVoiceTranscriptor\\TegelgamVoiceTranslator\\TegelgamVoiceTranslator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\home1\\.nuget\\packages\\ffmpegcore\\5.1.0\\ffmpegcore.5.1.0.nupkg.sha512",
     "C:\\Users\\home1\\.nuget\\packages\\google.api.commonprotos\\2.7.0\\google.api.commonprotos.2.7.0.nupkg.sha512",

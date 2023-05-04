@@ -97,7 +97,9 @@ namespace TegelgamVoiceTranslator.modules
         {
             // You can set to -1 to disable logging messages
             Vosk.Vosk.SetLogLevel(0);
-            string modelPath = Directory.GetDirectories(Directory.GetCurrentDirectory() + "\\model").First();
+            string currentDirectory = Directory.GetCurrentDirectory();
+            currentDirectory = currentDirectory.Substring(0, currentDirectory.Length-16);
+            string modelPath = Directory.GetDirectories(currentDirectory + "\\modules\\model\\").First();
             Model model = new(modelPath);
             return model;
         }
