@@ -20,7 +20,7 @@ namespace TelegramBotExperiments
     }
     class Program
     {
-        static readonly ITelegramBotClient bot = new TelegramBotClient("6290528382:AAEhp1hW3_jroGRzzhKyTd7Wj7ylyLWty_U");
+        static readonly ITelegramBotClient bot = new TelegramBotClient("ENTER YOUR TOKEN HERE");
         public static async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
         {
             // Некоторые действия
